@@ -1,4 +1,4 @@
 ## Test Data
 
-*test for heading
-*test for ordered list
+* test for heading
+* test for ordered list
